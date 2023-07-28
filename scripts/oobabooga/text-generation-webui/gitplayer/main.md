@@ -8,6 +8,14 @@ chmod +x start_macos.sh
 export OOBABOOGA_FLAGS="--loader llamacpp --auto-launch --chat --model llama-2-7b-guanaco-qlora.ggmlv3.q2_K.bin --extensions google_translate"
 ```
 
+ㅇㅂㅈㄹ
+ㅇㅈㅂㅇㅂㅇㅂㅈ
+dqwfwqf
+`
+`
+
+dwqf
+
 windows
 ```bash
 git clone https://github.com/oobabooga/one-click-installers
