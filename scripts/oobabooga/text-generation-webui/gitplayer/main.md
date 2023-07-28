@@ -1,4 +1,4 @@
-[open script](http://localhost:5174/script?ver=v1&inputArea=https%3A%2F%2Fgithub.com%2Fmelodysdreamj%2FGitPlayer-Scripts%2Fblob%2Fmain%2Fscripts%2Foobabooga%2Ftext-generation-webui%2Fgitplayer%2Fmian.onelink%0A(description)%0A%0A%0A---%20parameter%20---%0A(define%20parameter)%0A%0A)
+[run OneLinkAll](http://localhost:5174/script?ver=v1&inputArea=https%3A%2F%2Fgithub.com%2Fmelodysdreamj%2FGitPlayer-Scripts%2Fblob%2Fmain%2Fscripts%2Foobabooga%2Ftext-generation-webui%2Fgitplayer%2Fmian.onelink%0A(description)%0A%0A%0A---%20parameter%20---%0A(define%20parameter)%0A%0A)
 
 mac
 ```bash
